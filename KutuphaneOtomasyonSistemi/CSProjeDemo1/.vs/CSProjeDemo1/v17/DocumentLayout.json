@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erdi_\\OneDrive\\Masa\u00FCst\u00FC\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{310CE650-F382-41E8-BEC3-6BCB3CFA12A7}|CSProjeDemo1.Islem\\CSProjeDemo1.Islem.csproj|c:\\users\\erdi_\\onedrive\\masa\u00FCst\u00FC\\kutuphaneotomasyonsistemi\\csprojedemo1\\csprojedemo1.islem\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310CE650-F382-41E8-BEC3-6BCB3CFA12A7}|CSProjeDemo1.Islem\\CSProjeDemo1.Islem.csproj|solutionrelative:csprojedemo1.islem\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "C:\\Users\\erdi_\\OneDrive\\Masa\u00FCst\u00FC\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Islem\\Services\\IDataService.cs",
+              "RelativeDocumentMoniker": "CSProjeDemo1.Islem\\Services\\IDataService.cs",
+              "ToolTip": "C:\\Users\\erdi_\\OneDrive\\Masa\u00FCst\u00FC\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Islem\\Services\\IDataService.cs",
+              "RelativeToolTip": "CSProjeDemo1.Islem\\Services\\IDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:31:54.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "CSProjeDemo1.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CSProjeDemo1.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CSProjeDemo1.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CSProjeDemo1.Data.dll": {}
+        }
+      },
+      "CSProjeDemo1.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CSProjeDemo1.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CSProjeDemo1.Entities.dll": {}
+        }
+      },
+      "CSProjeDemo1.Islem/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CSProjeDemo1.Data": "1.0.0",
+          "CSProjeDemo1.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CSProjeDemo1.Islem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CSProjeDemo1.Islem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSProjeDemo1.Data/1.0.0": {
+      "type": "project",
+      "path": "../CSProjeDemo1.Data/CSProjeDemo1.Data.csproj",
+      "msbuildProject": "../CSProjeDemo1.Data/CSProjeDemo1.Data.csproj"
+    },
+    "CSProjeDemo1.Entities/1.0.0": {
+      "type": "project",
+      "path": "../CSProjeDemo1.Model/CSProjeDemo1.Entities.csproj",
+      "msbuildProject": "../CSProjeDemo1.Model/CSProjeDemo1.Entities.csproj"
+    },
+    "CSProjeDemo1.Islem/1.0.0": {
+      "type": "project",
+      "path": "../CSProjeDemo1.Islem/CSProjeDemo1.Islem.csproj",
+      "msbuildProject": "../CSProjeDemo1.Islem/CSProjeDemo1.Islem.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "CSProjeDemo1.Entities >= 1.0.0",
+      "CSProjeDemo1.Islem >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\erdi_\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\erdi_\\OneDrive\\Masaüstü\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Presentation\\CSProjeDemo1.Presentation.csproj",
+      "projectName": "CSProjeDemo1.Presentation",
+      "projectPath": "C:\\Users\\erdi_\\OneDrive\\Masaüstü\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Presentation\\CSProjeDemo1.Presentation.csproj",
+      "packagesPath": "C:\\Users\\erdi_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\erdi_\\OneDrive\\Masaüstü\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Presentation\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\erdi_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\erdi_\\OneDrive\\Masaüstü\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Islem\\CSProjeDemo1.Islem.csproj": {
+              "projectPath": "C:\\Users\\erdi_\\OneDrive\\Masaüstü\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Islem\\CSProjeDemo1.Islem.csproj"
+            },
+            "C:\\Users\\erdi_\\OneDrive\\Masaüstü\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Model\\CSProjeDemo1.Entities.csproj": {
+              "projectPath": "C:\\Users\\erdi_\\OneDrive\\Masaüstü\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Model\\CSProjeDemo1.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

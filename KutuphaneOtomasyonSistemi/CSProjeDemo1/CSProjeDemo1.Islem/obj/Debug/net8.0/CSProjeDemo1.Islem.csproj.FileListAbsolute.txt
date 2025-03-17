@@ -1,0 +1,17 @@
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\obj\Debug\net8.0\CSProjeDemo1.Islem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\obj\Debug\net8.0\CSProjeDemo1.Islem.AssemblyInfoInputs.cache
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\obj\Debug\net8.0\CSProjeDemo1.Islem.AssemblyInfo.cs
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\obj\Debug\net8.0\CSProjeDemo1.Islem.csproj.CoreCompileInputs.cache
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\bin\Debug\net8.0\CSProjeDemo1.Islem.deps.json
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\bin\Debug\net8.0\CSProjeDemo1.Islem.dll
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\bin\Debug\net8.0\CSProjeDemo1.Islem.pdb
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\bin\Debug\net8.0\CSProjeDemo1.Data.dll
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\bin\Debug\net8.0\CSProjeDemo1.Entities.dll
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\bin\Debug\net8.0\CSProjeDemo1.Data.pdb
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\bin\Debug\net8.0\CSProjeDemo1.Entities.pdb
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\obj\Debug\net8.0\CSProjeDemo1.Islem.csproj.AssemblyReference.cache
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\obj\Debug\net8.0\CSProjeD.8B614834.Up2Date
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\obj\Debug\net8.0\CSProjeDemo1.Islem.dll
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\obj\Debug\net8.0\refint\CSProjeDemo1.Islem.dll
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\obj\Debug\net8.0\CSProjeDemo1.Islem.pdb
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Islem\obj\Debug\net8.0\ref\CSProjeDemo1.Islem.dll

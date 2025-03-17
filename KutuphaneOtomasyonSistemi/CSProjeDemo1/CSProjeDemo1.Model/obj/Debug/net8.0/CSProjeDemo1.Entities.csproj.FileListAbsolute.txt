@@ -1,0 +1,11 @@
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Model\obj\Debug\net8.0\CSProjeDemo1.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Model\obj\Debug\net8.0\CSProjeDemo1.Entities.AssemblyInfoInputs.cache
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Model\obj\Debug\net8.0\CSProjeDemo1.Entities.AssemblyInfo.cs
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Model\obj\Debug\net8.0\CSProjeDemo1.Entities.csproj.CoreCompileInputs.cache
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Model\bin\Debug\net8.0\CSProjeDemo1.Entities.deps.json
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Model\bin\Debug\net8.0\CSProjeDemo1.Entities.dll
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Model\bin\Debug\net8.0\CSProjeDemo1.Entities.pdb
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Model\obj\Debug\net8.0\CSProjeDemo1.Entities.dll
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Model\obj\Debug\net8.0\refint\CSProjeDemo1.Entities.dll
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Model\obj\Debug\net8.0\CSProjeDemo1.Entities.pdb
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Model\obj\Debug\net8.0\ref\CSProjeDemo1.Entities.dll

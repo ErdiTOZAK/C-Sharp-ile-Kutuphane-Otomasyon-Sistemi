@@ -1,0 +1,15 @@
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\obj\Debug\net8.0\CSProjeDemo1.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\obj\Debug\net8.0\CSProjeDemo1.Data.AssemblyInfoInputs.cache
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\obj\Debug\net8.0\CSProjeDemo1.Data.AssemblyInfo.cs
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\obj\Debug\net8.0\CSProjeDemo1.Data.csproj.CoreCompileInputs.cache
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\bin\Debug\net8.0\CSProjeDemo1.Data.deps.json
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\bin\Debug\net8.0\CSProjeDemo1.Data.dll
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\bin\Debug\net8.0\CSProjeDemo1.Data.pdb
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\bin\Debug\net8.0\CSProjeDemo1.Entities.dll
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\bin\Debug\net8.0\CSProjeDemo1.Entities.pdb
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\obj\Debug\net8.0\CSProjeDemo1.Data.csproj.AssemblyReference.cache
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\obj\Debug\net8.0\CSProjeD.2214EC62.Up2Date
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\obj\Debug\net8.0\CSProjeDemo1.Data.dll
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\obj\Debug\net8.0\refint\CSProjeDemo1.Data.dll
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\obj\Debug\net8.0\CSProjeDemo1.Data.pdb
+C:\Users\erdi_\OneDrive\Masaüstü\KutuphaneOtomasyonSistemi\CSProjeDemo1\CSProjeDemo1.Data\obj\Debug\net8.0\ref\CSProjeDemo1.Data.dll

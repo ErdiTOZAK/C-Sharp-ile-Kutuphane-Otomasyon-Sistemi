@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erdi_\\OneDrive\\Masa\u00FCst\u00FC\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB267E1-EAB1-4CF7-AF6E-3857C3FBA390}|CSProjeDemo1.Presentation\\CSProjeDemo1.Presentation.csproj|c:\\users\\erdi_\\onedrive\\masa\u00FCst\u00FC\\kutuphaneotomasyonsistemi\\csprojedemo1\\csprojedemo1.presentation\\frmemanetislemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB267E1-EAB1-4CF7-AF6E-3857C3FBA390}|CSProjeDemo1.Presentation\\CSProjeDemo1.Presentation.csproj|solutionrelative:csprojedemo1.presentation\\frmemanetislemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC4222-10A2-48B0-8697-EA84A88C651B}|CSProjeDemo1.Model\\CSProjeDemo1.Entities.csproj|c:\\users\\erdi_\\onedrive\\masa\u00FCst\u00FC\\kutuphaneotomasyonsistemi\\csprojedemo1\\csprojedemo1.model\\entities\\emanetislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC4222-10A2-48B0-8697-EA84A88C651B}|CSProjeDemo1.Model\\CSProjeDemo1.Entities.csproj|solutionrelative:csprojedemo1.model\\entities\\emanetislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC4222-10A2-48B0-8697-EA84A88C651B}|CSProjeDemo1.Model\\CSProjeDemo1.Entities.csproj|c:\\users\\erdi_\\onedrive\\masa\u00FCst\u00FC\\kutuphaneotomasyonsistemi\\csprojedemo1\\csprojedemo1.model\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC4222-10A2-48B0-8697-EA84A88C651B}|CSProjeDemo1.Model\\CSProjeDemo1.Entities.csproj|solutionrelative:csprojedemo1.model\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC4222-10A2-48B0-8697-EA84A88C651B}|CSProjeDemo1.Model\\CSProjeDemo1.Entities.csproj|c:\\users\\erdi_\\onedrive\\masa\u00FCst\u00FC\\kutuphaneotomasyonsistemi\\csprojedemo1\\csprojedemo1.model\\entities\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC4222-10A2-48B0-8697-EA84A88C651B}|CSProjeDemo1.Model\\CSProjeDemo1.Entities.csproj|solutionrelative:csprojedemo1.model\\entities\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB267E1-EAB1-4CF7-AF6E-3857C3FBA390}|CSProjeDemo1.Presentation\\CSProjeDemo1.Presentation.csproj|c:\\users\\erdi_\\onedrive\\masa\u00FCst\u00FC\\kutuphaneotomasyonsistemi\\csprojedemo1\\csprojedemo1.presentation\\frmemanetislemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAB267E1-EAB1-4CF7-AF6E-3857C3FBA390}|CSProjeDemo1.Presentation\\CSProjeDemo1.Presentation.csproj|solutionrelative:csprojedemo1.presentation\\frmemanetislemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmanetIslem.cs",
+              "DocumentMoniker": "C:\\Users\\erdi_\\OneDrive\\Masa\u00FCst\u00FC\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Model\\Entities\\EmanetIslem.cs",
+              "RelativeDocumentMoniker": "CSProjeDemo1.Model\\Entities\\EmanetIslem.cs",
+              "ToolTip": "C:\\Users\\erdi_\\OneDrive\\Masa\u00FCst\u00FC\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Model\\Entities\\EmanetIslem.cs",
+              "RelativeToolTip": "CSProjeDemo1.Model\\Entities\\EmanetIslem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:26:24.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\erdi_\\OneDrive\\Masa\u00FCst\u00FC\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Model\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CSProjeDemo1.Model\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\erdi_\\OneDrive\\Masa\u00FCst\u00FC\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Model\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "CSProjeDemo1.Model\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:26:07.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Uye.cs",
+              "DocumentMoniker": "C:\\Users\\erdi_\\OneDrive\\Masa\u00FCst\u00FC\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Model\\Entities\\Uye.cs",
+              "RelativeDocumentMoniker": "CSProjeDemo1.Model\\Entities\\Uye.cs",
+              "ToolTip": "C:\\Users\\erdi_\\OneDrive\\Masa\u00FCst\u00FC\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Model\\Entities\\Uye.cs",
+              "RelativeToolTip": "CSProjeDemo1.Model\\Entities\\Uye.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:25:44.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEmanetIslemler.cs",
+              "DocumentMoniker": "C:\\Users\\erdi_\\OneDrive\\Masa\u00FCst\u00FC\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Presentation\\frmEmanetIslemler.cs",
+              "RelativeDocumentMoniker": "CSProjeDemo1.Presentation\\frmEmanetIslemler.cs",
+              "ToolTip": "C:\\Users\\erdi_\\OneDrive\\Masa\u00FCst\u00FC\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Presentation\\frmEmanetIslemler.cs*",
+              "RelativeToolTip": "CSProjeDemo1.Presentation\\frmEmanetIslemler.cs*",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAuwLEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:17:24.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmEmanetIslemler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erdi_\\OneDrive\\Masa\u00FCst\u00FC\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Presentation\\frmEmanetIslemler.cs",
+              "RelativeDocumentMoniker": "CSProjeDemo1.Presentation\\frmEmanetIslemler.cs",
+              "ToolTip": "C:\\Users\\erdi_\\OneDrive\\Masa\u00FCst\u00FC\\KutuphaneOtomasyonSistemi\\CSProjeDemo1\\CSProjeDemo1.Presentation\\frmEmanetIslemler.cs [Design]*",
+              "RelativeToolTip": "CSProjeDemo1.Presentation\\frmEmanetIslemler.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:15:51.369Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
